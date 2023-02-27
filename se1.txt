@@ -1,0 +1,26 @@
+        PYTHON
+-------------------
+referencia: https://www.python.org/
+relação: existe alguns framework para desenvolvimento rápido para web, como django que ajuda no desenvolvimento
+---------------------------------------
+
+         VSCODE
+----------------------------
+referencia: https://code.visualstudio.com/
+relação: base/ editor de codigo para construção 
+---------------------------------------------
+
+        GIT
+---------------------------------------------------
+referencia: https://git-scm.com/
+relação: controle de versão dos aplicativos 
+---------------------------------------------------
+        SQLITE
+-----------------------------------------------------
+referencia: https://sqlitebrowser.org/
+relação: base para guardar nossos dados 
+--------------------------------------------------------
+        NAVEGADOR
+--------------------------------------------------------
+referencia: https://www.google.com.br/
+relação: local de ajuda, para referencia, busca e tirar duvidas 
